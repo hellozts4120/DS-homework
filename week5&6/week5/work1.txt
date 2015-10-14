@@ -1,0 +1,5 @@
+2.(1)head(tail(tail(L1)));
+  (2)head(head(tail(L2)));
+  (3)head(head(tail(tail(head(L3)))));
+  (4)head(head(tail(tail(L4))));
+  (5)head(tail(head(L5)));
